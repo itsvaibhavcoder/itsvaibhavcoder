@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate Developer and Programmer From India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Data structure and Algorithm**
 
