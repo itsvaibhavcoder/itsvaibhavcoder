@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm vaibhav from pune<br><br>- 🔭 I’m working as - Student<br>- 📚 I'm currently learning  ReactJS and TypeScript<br>- ⚡ In my free time I plays cricket</p>
+<p align="left">I'm vaibhav from Jalgaon (Maharashtra) <br><br>- 🔭 I’m working as - Software Engineer<br>- 📚 I'm currently Working on Angular and .NET Core<br>- ⚡ In my free time I plays cricket and Mobile Game.</p>
 
 ###
 
